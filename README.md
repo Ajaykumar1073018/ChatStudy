@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## Name: Ajay kumar T
+## Regno: 212223047001
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
